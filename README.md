@@ -14,9 +14,9 @@ Python (pandas, scikit-learn, PuLP, SHAP/LIME) · R (caret) · SQL · PySpark ·
 ### 📂 Projects
 | Project | What it shows |
 |---|---|
-| [Adult Income: Explainability & Fairness](../../adult-income-fairness-xai) | Random Forest, SHAP, LIME, and spotting features that stand in for protected attributes |
-| [Insurance Cost & Risk](../../insurance-cost-risk) | Regression + classification pipelines, Gradient Boosting |
-| [Predicting Student Dropout](../../student-dropout-classification) | CART, Random Forest, hypothesis testing |
+| [Adult Income: Explainability & Fairness](https://github.com/aszombatfalvy/adult-income-fairness-xai) | Random Forest, SHAP, LIME, and spotting features that stand in for protected attributes |
+| [Insurance Cost & Risk](https://github.com/aszombatfalvy/insurance-cost-risk) | Regression + classification pipelines, Gradient Boosting |
+| [Predicting Student Dropout](https://github.com/aszombatfalvy/student-dropout-classification) | CART, Random Forest, hypothesis testing |
 | Inventory Optimization *(in progress)* | Safety stock and reorder points with integer programming and bootstrap simulation |
 
 ### 📫 Connect
