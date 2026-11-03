@@ -2,11 +2,11 @@
 
 Business Systems Analyst at a mid-market manufacturer in Northeast Ohio.
 
+I work where data meets operations: ERP systems, inventory, purchasing, and the shop floor. I like turning messy business data into decisions people can act on.
+
 ### 🎓 Education
 - **B.S. Data Analytics**, Franklin University (December 2026)
 - **A.A.B. Data Analytics – Tools & Techniques** and **A.A.**, Lorain County Community College (December 2024)
-
-I work where data meets operations: ERP systems, inventory, purchasing, and the shop floor. I like turning messy business data into decisions people can act on.
 
 ### 🔧 Tools
 Python (pandas, scikit-learn, PuLP, SHAP/LIME) · R (caret) · SQL · PySpark · Tableau · Excel · Git
