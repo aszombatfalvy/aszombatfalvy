@@ -1,6 +1,10 @@
 # Hi, I'm Anthony Szombatfalvy 👋
 
-Business Systems Analyst at a mid-market manufacturer in Northeast Ohio, finishing a B.S. in Data Analytics (Franklin University, December 2026).
+Business Systems Analyst at a mid-market manufacturer in Northeast Ohio.
+
+### 🎓 Education
+- **B.S. Data Analytics**, Franklin University (December 2026)
+- **A.A.B. Data Analytics – Tools & Techniques** and **A.A.**, Lorain County Community College (December 2024)
 
 I work where data meets operations: ERP systems, inventory, purchasing, and the shop floor. I like turning messy business data into decisions people can act on.
 
