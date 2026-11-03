@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Anthony Szombatfalvy 👋
 
-<!--
-**aszombatfalvy/aszombatfalvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Systems Analyst at a mid-market manufacturer in Northeast Ohio, finishing a B.S. in Data Analytics (Franklin University, December 2026).
 
-Here are some ideas to get you started:
+I work where data meets operations: ERP systems, inventory, purchasing, and the shop floor. I like turning messy business data into decisions people can act on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tools
+Python (pandas, scikit-learn, PuLP, SHAP/LIME) · R (caret) · SQL · PySpark · Tableau · Excel · Git
+
+### 📂 Projects
+| Project | What it shows |
+|---|---|
+| [Adult Income: Explainability & Fairness](../../adult-income-fairness-xai) | Random Forest, SHAP, LIME, and spotting features that stand in for protected attributes |
+| [Insurance Cost & Risk](../../insurance-cost-risk) | Regression + classification pipelines, Gradient Boosting |
+| [Predicting Student Dropout](../../student-dropout-classification) | CART, Random Forest, hypothesis testing |
+| Inventory Optimization *(in progress)* | Safety stock and reorder points with integer programming and bootstrap simulation |
+
+### 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/aszombatfalvybsa)
